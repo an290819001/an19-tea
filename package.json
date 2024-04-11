@@ -1,0 +1,15 @@
+{
+  "name": "an19-tea",
+  "version": "1.0.0",
+  "description": "nam tay a that chat, giu tay a that lau",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/an290819001/an19-tea.git"
+  },
+  "author": "an290819001",
+  "license": "MIT"
+}
